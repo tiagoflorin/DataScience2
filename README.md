@@ -48,5 +48,5 @@ Uso de librerías como `requests` y `spotipy` para enriquecer datasets estático
 La mayor enseñanza de este curso fue entender que el dato crudo no sirve de nada sin el contexto del negocio (en mi caso, la música). El modelo final no es solo matemática; es una herramienta de validación comercial para el lanzamiento de nuevos tracks.
 
 ---
-**Estudiante:** [Tu Nombre / Taeko Floran]  
-**Institución:** [Nombre de tu Escuela de Data Science]# DataScience2
+**Estudiante:** [Santiago Florin / Taeko Floran]  
+**Institución:** [Coderhouse]# DataScience2
